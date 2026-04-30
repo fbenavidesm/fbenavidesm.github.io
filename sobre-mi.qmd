@@ -2,7 +2,7 @@
 title: "Sobre mí"
 about:
   template: solana
-  image: assets/img/perfil.jpg
+  image: assets/img/LKProfilePhoto.png
   image-alt: "Foto de Tu Nombre"
   image-shape: round
   links:
@@ -17,33 +17,19 @@ about:
       href: assets/pdf/cv.pdf
 ---
 
-Hola soy Alejandra Lopez. 
+## Technical milestones
 
-Soy científico de datos con experiencia en la ciencia de datos. Me formé en STATO PRO y me apasiona resolver problemas complejos utilizando datos. He trabajado con proyectos que van desde análisis exploratorio hasta modelos en producción.
+### Systems Engineering & Game Mathematics (Senior Consultant) (2022 – Present)
 
-Me interesa especialmente [tema 1], [tema 2] y [tema 3]. Cuando no estoy analizando datos, [hobby/actividad].
+- Domain-Specific Language (DSL) Design: Architected Costa Rica’s first comprehensive Game Mathematics framework, including a custom C++ interpreter-simulator and a proprietary scripting language. This reduced R&D cycles and enabled the mathematical modeling of 24+ commercial titles.
 
-Estoy abierto/a a colaboraciones, preguntas sobre mis proyectos o simplemente conectar con personas del área.
+- Stochastic Large-Scale Simulation: Developed Docker-based simulation servers for massive probability models, ensuring statistical integrity and regulatory compliance for complex gaming mechanics.
 
-## Experiencia técnica
+### R&D in Digital Petrophysics (Shell Brazil / UFF) (2014-2018)
 
-**Machine Learning y Estadística**
-scikit-learn, XGBoost, LightGBM, statsmodels, SciPy
+- Inverse Problem Engineering: Formulated and solved a novel inverse problem to recover surface relaxivity as a functional of pore size. By integrating Random Walk simulations with Tikhonov regularization, I achieved unprecedented accuracy in characterizing complex carbonate reservoirs.
 
-**Análisis y Manipulación de Datos**
-pandas, NumPy, SQL, dplyr
+- Comparative Multi-Physics Analysis: (As published in Journal of Petroleum Science and Engineering, 2020) Developed a formulation to convert NMR T2 distributions into pore size distributions using variable surface relaxivity. Conducted a landmark comparative study between NMR-derived data and image-based methods (Micro-CT), validating the predictive power of digital petrophysics against laboratory benchmarks.
 
-**Visualización**
-matplotlib, seaborn, Plotly, ggplot2
+- HPC Architecture: Engineered a Large-Scale Finite Element Method (FEM) solver using an Element-By-Element (EBE) approach in C++. This implementation bypassed global matrix assembly constraints, enabling the processing of high-resolution tomographic datasets (millions of nodes) that exceed standard RAM capacities.
 
-**Herramientas y Plataformas**
-Python, R, Jupyter, Quarto, Git, Docker
-
-**Cloud y Bases de Datos**
-PostgreSQL, MySQL, BigQuery, AWS S3
-
-## Formación
-
-**[Título]** · [Institución] · [Año]
-
-**[Certificación o curso relevante]** · [Plataforma] · [Año]

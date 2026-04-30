@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "Tu Nombre"
+  title: "Francisco José Benavides Murillo"
   description: "Portafolio de ciencia de datos"
   site-url: "https://tu-usuario.github.io"
   favicon: assets/favicon.svg

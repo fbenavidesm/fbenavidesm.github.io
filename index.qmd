@@ -1,10 +1,10 @@
 ---
-title: "Tu Nombre"
-subtitle: "Científico de Datos"
+title: "Francisco José Benavides Murillo"
+subtitle: "Computational Scientist | Expert in High-Performance Computing (HPC) & Physics-Informed Modeling"
 about:
-  id: hero
+  id: Frank
   template: trestles
-  image: assets/img/perfil.jpg
+  image: assets/img/LKProfilePhoto.png
   image-alt: "Foto de Tu Nombre"
   image-shape: round
   links:
@@ -37,15 +37,8 @@ toc: false
 
 :::{#hero}
 
-Hola, soy **Tu Nombre**. Me especializo en análisis de datos y machine learning. Actualmente trabajo en [empresa/universidad] en [ciudad, país].
-
-Aquí comparto proyectos que muestran cómo resuelvo problemas reales con datos.
-
+PhD-trained Computational Scientist and Applied Mathematician specializing in the design of high-fidelity numerical simulations and large-scale algorithmic optimization. With over 15 years of experience, I have bridged the gap between abstract mathematical theory and industrial-grade implementations across Energy (Digital Rock Physics), FinTech, and the Gaming industry. Expert in solving ill-posed inverse problems and optimizing low-level computational kernels (C++, CUDA, Intel TBB) for massive datasets. I combine rigorous scientific inquiry with a software architecture mindset to deliver scalable, high-impact technical solutions.
 :::
 
-## Proyectos destacados
-
-:::{#proyectos-destacados}
-:::
 
 [Ver todos los proyectos →](proyectos/index.qmd){.btn .btn-outline-primary}
