@@ -112,7 +112,7 @@ GLOBAL RTP: 95.1261% ± 0.2702%
 VOLATILITY: High (11.61 Std Dev)
 ZERO PAYOUT RATE: 64.4202%
 
-[Feature: STATE_feature_achilles]
+[Feature: STATE_feature_1]
   - Hit Rate: 1 in 301 spins
   - Avg Payout: 51.02x bet
   - Q1: 18.30x | Median: 30.90x | Q3: 57.60x
